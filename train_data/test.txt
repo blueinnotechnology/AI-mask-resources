@@ -1,0 +1,3 @@
+/Users/calvinkam/Documents/Blueinno/projects/AI_Mask/repo/train_data/photos/13.jpg
+/Users/calvinkam/Documents/Blueinno/projects/AI_Mask/repo/train_data/photos/22.jpg
+/Users/calvinkam/Documents/Blueinno/projects/AI_Mask/repo/train_data/photos/31.jpg
